@@ -18,3 +18,12 @@ yarn add --dev tarot-eslint-config
     ]
 }
 ```
+
+or
+
+```js
+// .eslintrc.js
+module.exports = {
+    extends: [ require.resolve('tarot-eslint-config') ],
+}
+```

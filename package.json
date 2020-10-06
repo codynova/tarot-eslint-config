@@ -1,6 +1,6 @@
 {
   "name": "tarot-eslint-config",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Default ESLint configuration for Tarot https://github.com/codynova/tarot",
   "main": "index.js",
   "repository": "https://github.com/codynova/tarot-eslint-config",
